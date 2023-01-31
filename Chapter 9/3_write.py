@@ -1,0 +1,7 @@
+f = open('D:\Python learning\Chapter 9\ sample.txt','w')
+f.write("Get set go")
+f.write("\nGet set go")
+f.write("\nGet set go")
+f.write("\nGet set go")
+f.write("\nGet set go")
+f.close()
